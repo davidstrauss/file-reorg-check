@@ -3,4 +3,4 @@ file-reorg-check
 
 Usage:
 
-        python3 OLD-DIR NEW-DIR
+    python3 check.py OLD-DIR NEW-DIR
