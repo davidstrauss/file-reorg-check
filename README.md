@@ -1,4 +1,4 @@
-file-reorg-check
+File Reorganization Check
 ================
 
 Usage:
